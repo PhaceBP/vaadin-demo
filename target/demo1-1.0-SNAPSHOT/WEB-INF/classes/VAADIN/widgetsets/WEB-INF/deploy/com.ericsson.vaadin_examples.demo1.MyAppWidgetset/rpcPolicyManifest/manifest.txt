@@ -1,0 +1,2 @@
+# Module com.ericsson.vaadin_examples.demo1.MyAppWidgetset
+# RPC service class, partial path of RPC policy file
